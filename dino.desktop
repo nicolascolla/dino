@@ -2,7 +2,7 @@
 Name=Dino
 Exec=webapp-container --app-id="dino.collaproductions" $@ www/index.html
 Icon=assets/logo.png
-X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Color=#fbfbfb
 X-Ubuntu-Splash-Image=assets/logo.png
 Terminal=false
 Type=Application
