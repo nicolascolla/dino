@@ -1,0 +1,15 @@
+{
+    "name": "dino.collaproductions",
+    "description": "Google Chrome's offline minigame",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Dino",
+    "hooks": {
+        "dino": {
+            "apparmor": "dino.apparmor",
+            "desktop":  "dino.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Nicolás Colla <nicolascolla@mail.ru>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
