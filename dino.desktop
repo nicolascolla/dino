@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=Dino
 Exec=webapp-container --app-id="dino.collaproductions" $@ www/index.html
-Icon=assets/logo.svg
+Icon=assets/logo.png
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Image=assets/logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
