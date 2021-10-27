@@ -1,6 +1,6 @@
 # Dino
 
-![](assets/screenshot.gif)
+![](screenshot.gif)
 
 Google Chrome's offline minigame
 
