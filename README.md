@@ -5,6 +5,7 @@
 Google Chrome's offline minigame
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/dino.collaproductions)
+[![](https://i.imgur.com/KIipzE8.png)](https://t.me/collaproductions)
 
 
 ### Building instructions (Ubuntu-based distros)
