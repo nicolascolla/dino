@@ -9,7 +9,7 @@
             "desktop":  "dino.desktop"
         }
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "maintainer": "Nicolás Colla <nicolascolla@mail.ru>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
